@@ -1,0 +1,19 @@
+{
+  "name": "scrapbook",
+  "version": "1.0.0",
+  "description": "For Lina <3 | Allows you to have a digital scrapbook for you and as many people as you want!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Griffin-Dalby/Scrapbook.git"
+  },
+  "author": "Griffin E. Dalby",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Griffin-Dalby/Scrapbook/issues"
+  },
+  "homepage": "https://github.com/Griffin-Dalby/Scrapbook#readme"
+}
